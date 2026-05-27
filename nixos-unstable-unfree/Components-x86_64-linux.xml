@@ -1,0 +1,2251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<components version="1.0" origin="nixos-unstable-unfree" time="2026-02-19T09:55:59Z">
+<component type="desktop-application">
+  <id>io.github.fgsfdsfgs.perfect_dark</id>
+  <name>Perfect Dark</name>
+  <summary>Modern cross-platform port of Perfect Dark</summary>
+  <project_license>MIT</project_license>
+  <description>
+    <p>This is a port of Ryan Dywer's decompilation of classic N64 shooter Perfect Dark to modern systems.</p>
+  </description>
+  <developer id="io.github.fgsfdsfgs.perfect_dark">
+    <name>Perfect Dark Contributors</name>
+  </developer>
+  <developer_name>Perfect Dark Contributors</developer_name>
+  <pkgname>perfect_dark</pkgname>
+  <launchable type="desktop-id">io.github.fgsfdsfgs.perfect_dark.desktop</launchable>
+  <icon type="cached" width="64" height="64">perfect_dark_io.github.fgsfdsfgs.perfect_dark.png</icon>
+  <icon type="cached" width="128" height="128">perfect_dark_io.github.fgsfdsfgs.perfect_dark.png</icon>
+  <icon type="stock">io.github.fgsfdsfgs.perfect_dark</icon>
+  <url type="homepage">https://github.com/fgsfdsfgs/perfect_dark/</url>
+  <categories>
+    <category>Game</category>
+    <category>ActionGame</category>
+    <category>Shooter</category>
+  </categories>
+  <keywords>
+    <keyword>n64</keyword>
+    <keyword>scifi</keyword>
+    <keyword>cyberpunk</keyword>
+    <keyword>retro</keyword>
+    <keyword>sourceport</keyword>
+    <keyword>port</keyword>
+  </keywords>
+  <releases>
+    <release type="stable" version="latest" timestamp="1715644800"/>
+  </releases>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-realistic">moderate</content_attribute>
+    <content_attribute id="violence-bloodshed">mild</content_attribute>
+  </content_rating>
+</component>
+<component type="desktop-application">
+  <id>beepertexts.desktop</id>
+  <name>Beeper</name>
+  <summary>Beeper</summary>
+  <description>
+    <p>Beeper is a universal chat app. With Beeper, you can send
+and receive messages to friends, family and colleagues on
+many different chat networks.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>Beeper is a universal chat app. With Beeper, you can send
+and receive messages to friends, family and colleagues on
+many different chat networks.
+</p>
+  </description>
+  <pkgname>beeper</pkgname>
+  <launchable type="desktop-id">beepertexts.desktop</launchable>
+  <icon type="cached" width="64" height="64">beeper_beepertexts.png</icon>
+  <icon type="cached" width="128" height="128">beeper_beepertexts.png</icon>
+  <icon type="stock">beepertexts</icon>
+  <categories>
+    <category>Network</category>
+  </categories>
+  <provides>
+    <mediatype>x-scheme-handler/beeper</mediatype>
+  </provides>
+</component>
+<component type="desktop-application">
+  <id>geogebra.desktop</id>
+  <name>Geogebra</name>
+  <summary>Dynamic mathematics software with graphics, algebra and spreadsheets</summary>
+  <description>
+    <p>Dynamic mathematics software for all levels of education that brings
+together geometry, algebra, spreadsheets, graphing, statistics and
+calculus in one easy-to-use package.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>Dynamic mathematics software for all levels of education that brings
+together geometry, algebra, spreadsheets, graphing, statistics and
+calculus in one easy-to-use package.
+</p>
+  </description>
+  <pkgname>geogebra</pkgname>
+  <launchable type="desktop-id">geogebra.desktop</launchable>
+  <icon type="cached" width="48" height="48">geogebra_geogebra.png</icon>
+  <icon type="cached" width="64" height="64">geogebra_geogebra.png</icon>
+  <icon type="cached" width="128" height="128">geogebra_geogebra.png</icon>
+  <icon type="stock">geogebra</icon>
+  <categories>
+    <category>Education</category>
+    <category>Science</category>
+    <category>Math</category>
+  </categories>
+  <provides>
+    <mediatype>application/vnd.geogebra.file</mediatype>
+    <mediatype>application/vnd.geogebra.tool</mediatype>
+  </provides>
+</component>
+<component type="desktop-application">
+  <id>tigerjython.desktop</id>
+  <name>TigerJython</name>
+  <summary>The Python IDE for beginners</summary>
+  <description>
+    <p>Designing, coding, and amazing. TigerJython offers everything you need
+to go from Python programming beginner to professional.
+You will find a wide variety of tutorials and can get started right away
+in programming environments specially developed for you.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>Designing, coding, and amazing. TigerJython offers everything you need
+to go from Python programming beginner to professional.
+You will find a wide variety of tutorials and can get started right away
+in programming environments specially developed for you.
+</p>
+  </description>
+  <pkgname>tigerjython</pkgname>
+  <launchable type="desktop-id">TigerJython.desktop</launchable>
+  <icon type="cached" width="48" height="48">tigerjython_tigerjython.png</icon>
+  <icon type="cached" width="64" height="64">tigerjython_tigerjython.png</icon>
+  <icon type="stock">tigerjython</icon>
+  <categories>
+    <category>Education</category>
+  </categories>
+  <provides>
+    <mediatype>text/x-python</mediatype>
+  </provides>
+</component>
+<component type="desktop-application">
+  <id>com.discordapp.Discord</id>
+  <name>Discord</name>
+  <summary>All-in-one cross-platform voice and text chat for gamers</summary>
+  <project_license>LicenseRef-proprietary</project_license>
+  <description>
+    <p>Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out. </p>
+  </description>
+  <developer id="com.discord">
+    <name>Discord Inc.</name>
+  </developer>
+  <developer_name>Discord Inc.</developer_name>
+  <pkgname>discord</pkgname>
+  <launchable type="desktop-id">discord.desktop</launchable>
+  <icon type="cached" width="64" height="64">discord_discord.png</icon>
+  <icon type="cached" width="128" height="128">discord_discord.png</icon>
+  <icon type="stock">discord</icon>
+  <url type="homepage">https://discordapp.com/</url>
+  <categories>
+    <category>Network</category>
+    <category>InstantMessaging</category>
+  </categories>
+  <provides>
+    <mediatype>x-scheme-handler/discord</mediatype>
+  </provides>
+</component>
+<component type="desktop-application">
+  <id>burpsuite.desktop</id>
+  <name>Burp Suite Community Edition</name>
+  <summary>Integrated platform for performing security testing of web applications</summary>
+  <description>
+    <p>Burp Suite is an integrated platform for performing security testing of web applications.
+Its various tools work seamlessly together to support the entire testing process, from
+initial mapping and analysis of an application's attack surface, through to finding and
+exploiting security vulnerabilities.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>Burp Suite is an integrated platform for performing security testing of web applications.
+Its various tools work seamlessly together to support the entire testing process, from
+initial mapping and analysis of an application's attack surface, through to finding and
+exploiting security vulnerabilities.
+</p>
+  </description>
+  <pkgname>burpsuite</pkgname>
+  <launchable type="desktop-id">burpsuite.desktop</launchable>
+  <icon type="cached" width="64" height="64">burpsuite_burpsuite.png</icon>
+  <icon type="stock">burpsuite</icon>
+  <categories>
+    <category>Development</category>
+    <category>Security</category>
+    <category>System</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>datagrip.desktop</id>
+  <name>DataGrip</name>
+  <summary>DataGrip is an IDE from JetBrains built for database admins. It allows you to quickly migrate and refactor relational databases, construct efficient, statically checked SQL queries and much more.</summary>
+  <description>
+    <p>DataGrip is an IDE from JetBrains built for database admins.
+It allows you to quickly migrate and refactor relational databases, construct efficient, statically checked SQL queries and much more.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>DataGrip is an IDE from JetBrains built for database admins.
+It allows you to quickly migrate and refactor relational databases, construct efficient, statically checked SQL queries and much more.
+</p>
+  </description>
+  <pkgname>jetbrains.datagrip</pkgname>
+  <launchable type="desktop-id">datagrip.desktop</launchable>
+  <icon type="cached" width="48" height="48">jetbrains.datagrip_datagrip.png</icon>
+  <icon type="cached" width="64" height="64">jetbrains.datagrip_datagrip.png</icon>
+  <icon type="cached" width="128" height="128">jetbrains.datagrip_datagrip.png</icon>
+  <icon type="stock">datagrip</icon>
+  <categories>
+    <category>Development</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>tana.desktop</id>
+  <name>Tana</name>
+  <summary>The Everything OS</summary>
+  <description>
+    <p>At its core, Tana is an outline editor which can be extended to
+cover multiple use-cases and different workflows.
+For individuals, it supports GTD, P.A.R.A., Zettelkasten note-taking
+out of the box. Teams can leverage the powerful project management
+views, like Kanban.
+To complete all, a powerful AI system is integrated to help with most
+of the tasks.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>At its core, Tana is an outline editor which can be extended to
+cover multiple use-cases and different workflows.
+For individuals, it supports GTD, P.A.R.A., Zettelkasten note-taking
+out of the box. Teams can leverage the powerful project management
+views, like Kanban.
+To complete all, a powerful AI system is integrated to help with most
+of the tasks.
+</p>
+  </description>
+  <pkgname>tana</pkgname>
+  <launchable type="desktop-id">tana.desktop</launchable>
+  <icon type="cached" width="64" height="64">tana_tana.png</icon>
+  <icon type="stock">tana</icon>
+  <categories>
+    <category>Utility</category>
+  </categories>
+  <provides>
+    <mediatype>x-scheme-handler/tana</mediatype>
+  </provides>
+</component>
+<component type="desktop-application">
+  <id>ankama-launcher.desktop</id>
+  <name>Ankama Launcher</name>
+  <summary>Ankama portal and game launcher</summary>
+  <description>
+    <p>Ankama Launcher is a portal that allows you to access Ankama's video games, VOD animations, webtoons, and livestreams, as well as download updates, stay up to date with the latest news, and chat with your friends.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>Ankama Launcher is a portal that allows you to access Ankama's video games, VOD animations, webtoons, and livestreams, as well as download updates, stay up to date with the latest news, and chat with your friends.
+</p>
+  </description>
+  <pkgname>ankama-launcher</pkgname>
+  <launchable type="desktop-id">ankama-launcher.desktop</launchable>
+  <icon type="cached" width="64" height="64">ankama-launcher_zaap.png</icon>
+  <icon type="cached" width="128" height="128">ankama-launcher_zaap.png</icon>
+  <icon type="stock">zaap</icon>
+  <categories>
+    <category>Game</category>
+  </categories>
+  <provides>
+    <mediatype>x-scheme-handler/zaap</mediatype>
+  </provides>
+</component>
+<component type="desktop-application">
+  <id>smartgit.desktop</id>
+  <name>SmartGit</name>
+  <summary>Git GUI client</summary>
+  <description>
+    <p>SmartGit is a multi-platform Git GUI client, free to use for active Open Source developers and users from academic institutions.
+Command line Git is required.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>SmartGit is a multi-platform Git GUI client, free to use for active Open Source developers and users from academic institutions.
+Command line Git is required.
+</p>
+  </description>
+  <pkgname>smartgit</pkgname>
+  <launchable type="desktop-id">smartgit.desktop</launchable>
+  <icon type="cached" width="48" height="48">smartgit_smartgit.png</icon>
+  <icon type="cached" width="64" height="64">smartgit_smartgit.png</icon>
+  <icon type="cached" width="128" height="128">smartgit_smartgit.png</icon>
+  <icon type="stock">smartgit</icon>
+  <categories>
+    <category>Development</category>
+    <category>RevisionControl</category>
+  </categories>
+  <provides>
+    <mediatype>x-scheme-handler/git</mediatype>
+    <mediatype>x-scheme-handler/smartgit</mediatype>
+    <mediatype>x-scheme-handler/sourcetree</mediatype>
+  </provides>
+  <keywords>
+    <keyword>git</keyword>
+  </keywords>
+</component>
+<component type="desktop-application">
+  <id>mps.desktop</id>
+  <name>MPS</name>
+  <summary>A metaprogramming system which uses projectional editing which allows users to overcome the limits of language parsers, and build DSL editors, such as ones with tables and diagrams.</summary>
+  <description>
+    <p>A metaprogramming system which uses projectional editing which allows users to overcome the limits of language parsers, and build DSL editors, such as ones with tables and diagrams.</p>
+  </description>
+  <description xml:lang="en">
+    <p>A metaprogramming system which uses projectional editing which allows users to overcome the limits of language parsers, and build DSL editors, such as ones with tables and diagrams.</p>
+  </description>
+  <pkgname>jetbrains.mps</pkgname>
+  <launchable type="desktop-id">mps.desktop</launchable>
+  <icon type="cached" width="48" height="48">jetbrains.mps_mps.png</icon>
+  <icon type="cached" width="64" height="64">jetbrains.mps_mps.png</icon>
+  <icon type="cached" width="128" height="128">jetbrains.mps_mps.png</icon>
+  <icon type="stock">mps</icon>
+  <categories>
+    <category>Development</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>microsoft-edge.desktop</id>
+  <name>Microsoft Edge</name>
+  <summary>The web browser from Microsoft</summary>
+  <project_license>Freeware under Microsoft Edge Terms of Service</project_license>
+  <description>
+    <p>
+    Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
+    </p>
+  </description>
+  <developer>
+    <name>Microsoft</name>
+  </developer>
+  <developer_name>Microsoft</developer_name>
+  <pkgname>microsoft-edge</pkgname>
+  <launchable type="desktop-id">microsoft-edge.desktop</launchable>
+  <icon type="cached" width="48" height="48">microsoft-edge_microsoft-edge.png</icon>
+  <icon type="cached" width="64" height="64">microsoft-edge_microsoft-edge.png</icon>
+  <icon type="cached" width="128" height="128">microsoft-edge_microsoft-edge.png</icon>
+  <icon type="stock">microsoft-edge</icon>
+  <url type="homepage">https://www.microsoftedgeinsider.com/en-us/</url>
+  <url type="bugtracker">https://techcommunity.microsoft.com/t5/Microsoft-Edge-Insider/ct-p/MicrosoftEdgeInsider</url>
+  <url type="help">https://techcommunity.microsoft.com/t5/Microsoft-Edge-Insider/ct-p/MicrosoftEdgeInsider</url>
+  <categories>
+    <category>Network</category>
+    <category>WebBrowser</category>
+  </categories>
+  <provides>
+    <mediatype>application/pdf</mediatype>
+    <mediatype>application/rdf+xml</mediatype>
+    <mediatype>application/rss+xml</mediatype>
+    <mediatype>application/xhtml+xml</mediatype>
+    <mediatype>application/xhtml_xml</mediatype>
+    <mediatype>application/xml</mediatype>
+    <mediatype>image/gif</mediatype>
+    <mediatype>image/jpeg</mediatype>
+    <mediatype>image/png</mediatype>
+    <mediatype>image/webp</mediatype>
+    <mediatype>text/html</mediatype>
+    <mediatype>text/xml</mediatype>
+    <mediatype>x-scheme-handler/http</mediatype>
+    <mediatype>x-scheme-handler/https</mediatype>
+    <mediatype>x-scheme-handler/chromium</mediatype>
+  </provides>
+  <screenshots>
+    <screenshot type="default">
+      <image type="source" width="1600" height="900">https://www.gstatic.com/chrome/appstream/chrome-2.png</image>
+    </screenshot>
+  </screenshots>
+</component>
+<component type="desktop-application">
+  <id>kmeet.desktop</id>
+  <name>kMeet</name>
+  <summary>Infomaniak Meet Desktop App</summary>
+  <summary xml:lang="de">Infomaniak Meet Desktop App</summary>
+  <summary xml:lang="es">Infomaniak Meet Desktop App</summary>
+  <summary xml:lang="fr">Infomaniak Meet Desktop App</summary>
+  <summary xml:lang="it">Infomaniak Meet Desktop App</summary>
+  <description>
+    <p>kMeet allows you to organise secure online meetings via your web browser, your mobile, your tablet or your
+computer.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>kMeet allows you to organise secure online meetings via your web browser, your mobile, your tablet or your
+computer.
+</p>
+  </description>
+  <pkgname>kmeet</pkgname>
+  <launchable type="desktop-id">kMeet.desktop</launchable>
+  <icon type="cached" width="64" height="64">kmeet_kMeet.png</icon>
+  <icon type="cached" width="128" height="128">kmeet_kMeet.png</icon>
+  <icon type="stock">kMeet</icon>
+  <categories>
+    <category>VideoConference</category>
+    <category>AudioVideo</category>
+    <category>Audio</category>
+    <category>Video</category>
+    <category>Network</category>
+  </categories>
+  <provides>
+    <mediatype>x-scheme-handler/kmeet</mediatype>
+    <mediatype>x-scheme-handler/kmeet</mediatype>
+  </provides>
+</component>
+<component type="desktop-application">
+  <id>aseprite.desktop</id>
+  <name>Aseprite</name>
+  <summary>Animated sprite editor &amp; pixel art tool</summary>
+  <description>
+    <p>Aseprite is a program to create animated sprites. Its main features are:
+  - Sprites are composed by layers &amp; frames (as separated concepts).
+  - Supported color modes: RGBA, Indexed (palettes up to 256 colors), and Grayscale.
+  - Load/save sequence of PNG files and GIF animations (and FLC, FLI, JPG, BMP, PCX, TGA).
+  - Export/import animations to/from Sprite Sheets.
+  - Tiled drawing mode, useful to draw patterns and textures.
+  - Undo/Redo for every operation.
+  - Real-time animation preview.
+  - Multiple editors support.
+  - Pixel-art specific tools like filled Contour, Polygon, Shading mode, etc.
+  - Onion skinning.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>Aseprite is a program to create animated sprites. Its main features are:
+  - Sprites are composed by layers &amp; frames (as separated concepts).
+  - Supported color modes: RGBA, Indexed (palettes up to 256 colors), and Grayscale.
+  - Load/save sequence of PNG files and GIF animations (and FLC, FLI, JPG, BMP, PCX, TGA).
+  - Export/import animations to/from Sprite Sheets.
+  - Tiled drawing mode, useful to draw patterns and textures.
+  - Undo/Redo for every operation.
+  - Real-time animation preview.
+  - Multiple editors support.
+  - Pixel-art specific tools like filled Contour, Polygon, Shading mode, etc.
+  - Onion skinning.
+</p>
+  </description>
+  <pkgname>aseprite</pkgname>
+  <launchable type="desktop-id">aseprite.desktop</launchable>
+  <icon type="cached" width="48" height="48">aseprite_aseprite.png</icon>
+  <icon type="cached" width="64" height="64">aseprite_aseprite.png</icon>
+  <icon type="cached" width="128" height="128">aseprite_aseprite.png</icon>
+  <icon type="stock">aseprite</icon>
+  <categories>
+    <category>Graphics</category>
+    <category>2DGraphics</category>
+    <category>RasterGraphics</category>
+  </categories>
+  <provides>
+    <mediatype>image/bmp</mediatype>
+    <mediatype>image/gif</mediatype>
+    <mediatype>image/jpeg</mediatype>
+    <mediatype>image/png</mediatype>
+    <mediatype>image/x-pcx</mediatype>
+    <mediatype>image/x-tga</mediatype>
+    <mediatype>image/vnd.microsoft.icon</mediatype>
+    <mediatype>video/x-flic</mediatype>
+    <mediatype>image/webp</mediatype>
+    <mediatype>image/x-aseprite</mediatype>
+  </provides>
+</component>
+<component type="desktop-application">
+  <id>org.legoisland.Isle</id>
+  <name>Isle Portable</name>
+  <summary>Portable version of the LEGO Island Decompilation Project</summary>
+  <project_license>LGPL-3.0-or-later</project_license>
+  <description>
+    <p> This initiative is a portable version of LEGO Island (Version 1.1, English)
+      based on the decompilation project. Our primary goal is to transform the codebase to achieve
+      platform independence, thereby enhancing compatibility across various systems while preserving
+      the original game's experience as faithfully as possible.
+    </p>
+    <p>
+      Please note: this project is dedicated to achieving platform independence without altering the
+      core gameplay, adding new features, enhancing visual quality, or rewriting code for
+      improvement's sake. While those are worthwhile objectives, they are not within the scope
+      of this project.
+    </p>
+  </description>
+  <developer id="io.github.isledecomp">
+    <name>Isle Decomp Team</name>
+  </developer>
+  <developer_name>Isle Decomp Team</developer_name>
+  <requires>
+    <display_length side="longest">640</display_length>
+    <internet>offline-only</internet>
+  </requires>
+  <recommends>
+    <memory>128</memory>
+  </recommends>
+  <supports>
+    <control>pointing</control>
+    <control>keyboard</control>
+    <control>gamepad</control>
+  </supports>
+  <pkgname>isle-portable</pkgname>
+  <launchable type="desktop-id">org.legoisland.Isle.desktop</launchable>
+  <icon type="cached" width="48" height="48">isle-portable_org.legoisland.Isle.png</icon>
+  <icon type="cached" width="64" height="64">isle-portable_org.legoisland.Isle.png</icon>
+  <icon type="cached" width="128" height="128">isle-portable_org.legoisland.Isle.png</icon>
+  <icon type="stock">org.legoisland.Isle</icon>
+  <url type="homepage">https://github.com/isledecomp/isle-portable</url>
+  <url type="bugtracker">https://github.com/isledecomp/isle-portable/issues</url>
+  <url type="vcs-browser">https://github.com/isledecomp/isle-portable/tree/master</url>
+  <url type="contribute">https://github.com/isledecomp/isle-portable/blob/master/CONTRIBUTING.md</url>
+  <categories>
+    <category>Game</category>
+    <category>KidsGame</category>
+    <category>AdventureGame</category>
+    <category>Qt</category>
+  </categories>
+  <keywords>
+    <keyword>LEGO</keyword>
+    <keyword>lego</keyword>
+    <keyword>LEGO Island</keyword>
+  </keywords>
+  <keywords xml:lang="da">
+    <keyword>Panik på LEGO Øen</keyword>
+  </keywords>
+  <keywords xml:lang="de">
+    <keyword>Abenteuer auf der LEGO Insel</keyword>
+  </keywords>
+  <keywords xml:lang="es">
+    <keyword>La Isla LEGO</keyword>
+  </keywords>
+  <keywords xml:lang="fr">
+    <keyword>Aventures sur L'île LEGO</keyword>
+  </keywords>
+  <keywords xml:lang="it">
+    <keyword>Isola LEGO</keyword>
+  </keywords>
+  <keywords xml:lang="ja">
+    <keyword>レゴアイランドの大冒険</keyword>
+  </keywords>
+  <keywords xml:lang="ko">
+    <keyword>레고 아일랜드</keyword>
+  </keywords>
+  <keywords xml:lang="pt">
+    <keyword>A Ilha LEGO</keyword>
+  </keywords>
+  <keywords xml:lang="ru">
+    <keyword>Остров LEGO</keyword>
+  </keywords>
+  <keywords xml:lang="uk-UA">
+    <keyword>LEGO</keyword>
+    <keyword>lego</keyword>
+    <keyword>LEGO острів</keyword>
+  </keywords>
+  <branding>
+    <color type="primary">#e3000b</color>
+  </branding>
+  <releases>
+    <release type="development" version="0.1" timestamp="315532800"/>
+  </releases>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">mild</content_attribute>
+    <content_attribute id="language-humor">mild</content_attribute>
+  </content_rating>
+</component>
+<component type="desktop-application">
+  <id>com.etlegacy.ETLegacy.x86_64</id>
+  <name>ET: Legacy (x86 64-bit)</name>
+  <summary>World War II first-person shooter</summary>
+  <description>
+    <p>ET: Legacy, an open source project fully compatible client and server
+for the popular online FPS game Wolfenstein: Enemy Territory - whose
+gameplay is still considered unmatched by many, despite its great age.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>ET: Legacy, an open source project fully compatible client and server
+for the popular online FPS game Wolfenstein: Enemy Territory - whose
+gameplay is still considered unmatched by many, despite its great age.
+</p>
+  </description>
+  <pkgname>etlegacy</pkgname>
+  <launchable type="desktop-id">com.etlegacy.ETLegacy.x86_64.desktop</launchable>
+  <icon type="cached" width="48" height="48">etlegacy_etl.png</icon>
+  <icon type="cached" width="64" height="64">etlegacy_etl.png</icon>
+  <icon type="cached" width="128" height="128">etlegacy_etl.png</icon>
+  <icon type="stock">etl</icon>
+  <categories>
+    <category>Game</category>
+    <category>ActionGame</category>
+  </categories>
+  <provides>
+    <mediatype>x-scheme-handler/et</mediatype>
+  </provides>
+  <keywords>
+    <keyword>team-based</keyword>
+    <keyword>multiplayer</keyword>
+    <keyword>tactical</keyword>
+    <keyword>WWII</keyword>
+    <keyword>enemy</keyword>
+    <keyword>territory</keyword>
+    <keyword>etl</keyword>
+    <keyword>etlegacy</keyword>
+  </keywords>
+</component>
+<component type="desktop-application">
+  <id>urbanterror.desktop</id>
+  <name>Urban Terror</name>
+  <summary>A multiplayer tactical FPS on top of Quake 3 engine</summary>
+  <description>
+    <p>Urban Terror is a free multiplayer first person shooter developed by
+FrozenSand, that (thanks to the ioquake3-code) does not require
+Quake III Arena anymore. Urban Terror can be described as a Hollywood
+tactical shooter; somewhat realism based, but the motto is "fun over
+realism". This results in a very unique, enjoyable and addictive game.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>Urban Terror is a free multiplayer first person shooter developed by
+FrozenSand, that (thanks to the ioquake3-code) does not require
+Quake III Arena anymore. Urban Terror can be described as a Hollywood
+tactical shooter; somewhat realism based, but the motto is "fun over
+realism". This results in a very unique, enjoyable and addictive game.
+</p>
+  </description>
+  <pkgname>urbanterror</pkgname>
+  <launchable type="desktop-id">urbanterror.desktop</launchable>
+  <icon type="cached" width="48" height="48">urbanterror_urbanterror.png</icon>
+  <icon type="cached" width="64" height="64">urbanterror_urbanterror.png</icon>
+  <icon type="cached" width="128" height="128">urbanterror_urbanterror.png</icon>
+  <icon type="stock">urbanterror</icon>
+  <categories>
+    <category>Game</category>
+    <category>ActionGame</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>devilutionx-hellfire.desktop</id>
+  <name>DevilutionX Hellfire</name>
+  <summary>Play Diablo: Hellfire</summary>
+  <summary xml:lang="da">Spil Diablo: Hellfire</summary>
+  <summary xml:lang="hr">Igrajte Diablo: Hellfire</summary>
+  <summary xml:lang="it">Gioca a Diablo: Hellfire</summary>
+  <summary xml:lang="ru">Играть в Diablo: Hellfire</summary>
+  <summary xml:lang="ua">Грати в Diablo: Hellfire</summary>
+  <description>
+    <p>In order to play this game a copy of diabdat.mpq is required. Place a copy of diabdat.mpq in ~/.local/share/diasurgical/devilution before executing the game.</p>
+  </description>
+  <description xml:lang="en">
+    <p>In order to play this game a copy of diabdat.mpq is required. Place a copy of diabdat.mpq in ~/.local/share/diasurgical/devilution before executing the game.</p>
+  </description>
+  <pkgname>devilutionx</pkgname>
+  <launchable type="desktop-id">devilutionx-hellfire.desktop</launchable>
+  <icon type="cached" width="64" height="64">devilutionx_devilutionx-hellfire.png</icon>
+  <icon type="cached" width="128" height="128">devilutionx_devilutionx-hellfire.png</icon>
+  <icon type="stock">devilutionx-hellfire</icon>
+  <categories>
+    <category>Game</category>
+    <category>RolePlaying</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>org.diasurgical.DevilutionX</id>
+  <name>DevilutionX</name>
+  <summary>Experience Diablo and Hellfire anew</summary>
+  <project_license>LicenseRef-scancode-sustainable-use-1.0=https://scancode-licensedb.aboutcode.org/sustainable-use-1.0.html</project_license>
+  <description>
+    <p>
+      DevilutionX is a source port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features. This includes support for modern operating systems and higher resolutions, controller and touch control support, translations, stash, optional experience and enemy health bars, etc.
+		</p>
+    <p>
+      Note: DevilutionX requires data files from original Diablo/Hellfire. By default, a demo version of Diablo is installed.
+		</p>
+    <p>
+	  To install the full version of Diablo, copy DIABDAT.MPQ from the CD or GOG-installation (or extract it from the GoG installer) to ~/.var/app/org.diasurgical.DevilutionX/data/diasurgical/devilution.
+		</p>
+    <p>
+	  To run the Diablo: Hellfire expansion you will need to also copy hellfire.mpq, hfmonk.mpq, hfmusic.mpq, hfvoice.mpq.
+		</p>
+  </description>
+  <developer id="org.diasurgical">
+    <name>Diasurgical team</name>
+  </developer>
+  <developer_name>Diasurgical team</developer_name>
+  <supports>
+    <control>pointing</control>
+    <control>keyboard</control>
+    <control>touch</control>
+    <control>gamepad</control>
+  </supports>
+  <pkgname>devilutionx</pkgname>
+  <launchable type="desktop-id">devilutionx.desktop</launchable>
+  <icon type="cached" width="64" height="64">devilutionx_devilutionx.png</icon>
+  <icon type="cached" width="128" height="128">devilutionx_devilutionx.png</icon>
+  <icon type="stock">devilutionx</icon>
+  <url type="homepage">https://github.com/diasurgical/devilutionX</url>
+  <url type="bugtracker">https://github.com/diasurgical/devilutionX/issues</url>
+  <url type="contact">https://discord.gg/devilutionx</url>
+  <url type="vcs-browser">https://github.com/diasurgical/devilutionX</url>
+  <categories>
+    <category>Game</category>
+    <category>ActionGame</category>
+    <category>RolePlaying</category>
+  </categories>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Diablo gameplay in widescreen</caption>
+      <image type="source" width="5120" height="2880">https://raw.githubusercontent.com/flathub/org.diasurgical.DevilutionX/master/screens/screen1.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Diablo gameplay with enemy health bar and XP bar</caption>
+      <image type="source" width="838" height="480">https://raw.githubusercontent.com/flathub/org.diasurgical.DevilutionX/master/screens/screen2.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Diablo gameplay on Android mobile device</caption>
+      <image type="source" width="2253" height="1040">https://raw.githubusercontent.com/flathub/org.diasurgical.DevilutionX/master/screens/screen3.png</image>
+    </screenshot>
+  </screenshots>
+  <branding>
+    <color type="primary" scheme_preference="light">#c86666</color>
+    <color type="primary" scheme_preference="dark">#640000</color>
+  </branding>
+  <releases>
+    <release type="stable" version="1.5.4" timestamp="1738972800">
+      <description>
+        <p>This release includes the following updates:</p>
+        <ul>
+          <li>Invalid items are now unusable</li>
+          <li>Improved gamepad controls</li>
+          <li>Updated Italian, Russian and Ukrainian translations</li>
+          <li>Fixed multiple crashes</li>
+          <li>Improved item validation in multiplayer</li>
+          <li>Fixed multiple bugs found in original Diablo and Hellfire</li>
+        </ul>
+        <p>Please visit the full changelog for more detailed notes</p>
+      </description>
+      <url>https://github.com/diasurgical/devilutionX/releases/tag/1.5.4</url>
+    </release>
+    <release type="stable" version="1.5.3" timestamp="1724976000">
+      <description>
+        <p>This release includes the following updates:</p>
+        <ul>
+          <li>Resolved validation multiplayer errors</li>
+          <li>Added Hungarian translation</li>
+          <li>Added Turkish translation</li>
+          <li>Fixed issue where a line is repeated in the info panel</li>
+          <li>Fixed errors when converting Hellfire saved games</li>
+        </ul>
+        <p>Please visit the full changelog for more detailed notes</p>
+      </description>
+      <url>https://github.com/diasurgical/devilutionX/releases/tag/1.5.3</url>
+    </release>
+    <release type="stable" version="1.5.2" timestamp="1707004800">
+      <description>
+        <p>This release includes the following updates:</p>
+        <ul>
+          <li>Fix issues with joining games due to invalid player data</li>
+          <li>Improve rendering of Chinese/Japanese/Korean texts</li>
+          <li>Fix Hellfire items not saving their identified state</li>
+          <li>Fix stash corrupting when converting a hero between Diablo and Hellfire</li>
+        </ul>
+        <p>Please visit the full changelog for more detailed notes</p>
+      </description>
+      <url>https://github.com/diasurgical/devilutionX/releases/tag/1.5.2</url>
+    </release>
+    <release type="stable" version="1.5.1" timestamp="1693612800">
+      <description>
+        <p>This is a primarily bugfix release, which includes the following updates:</p>
+        <ul>
+          <li>Resolve various gameplay and graphical issues</li>
+          <li>Revamped settings menu for better organization</li>
+          <li>Rectification of crashes identified in version 1.5.0</li>
+          <li>Reduced RAM usage for improved performance</li>
+          <li>Updates to PVP arenas</li>
+          <li>Increased reliability in multiplayer functionality</li>
+          <li>Improved translations</li>
+          <li>Fixed gameplay recording playback issues</li>
+        </ul>
+        <p>Please visit the full changelog for more detailed notes</p>
+      </description>
+      <url>https://github.com/diasurgical/devilutionX/releases/tag/1.5.1</url>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-fantasy">moderate</content_attribute>
+    <content_attribute id="drugs-alcohol">moderate</content_attribute>
+    <content_attribute id="sex-nudity">moderate</content_attribute>
+    <content_attribute id="sex-themes">moderate</content_attribute>
+    <content_attribute id="language-profanity">mild</content_attribute>
+    <content_attribute id="language-humor">mild</content_attribute>
+    <content_attribute id="social-chat">intense</content_attribute>
+  </content_rating>
+</component>
+<component type="desktop-application">
+  <id>appgate</id>
+  <name>Appgate SDP</name>
+  <summary>Appgate SDP Client</summary>
+  <project_license>LicenseRef-proprietary=https://www.appgate.com/legal/cryptzone-end-user-license-agreement-eula</project_license>
+  <description>
+    <p>
+      Appgate SDP is a network security system designed to help you easily and securely access network resources via certain access rules (which we call Entitlements) configured by your organization.
+    </p>
+  </description>
+  <pkgname>appgate-sdp</pkgname>
+  <launchable type="desktop-id">appgate.desktop</launchable>
+  <icon type="cached" width="48" height="48">appgate-sdp_appgate-icon.png</icon>
+  <icon type="cached" width="64" height="64">appgate-sdp_appgate-icon.png</icon>
+  <icon type="cached" width="128" height="128">appgate-sdp_appgate-icon.png</icon>
+  <icon type="stock">appgate-icon</icon>
+  <url type="homepage">https://www.appgate.com/zero-trust-network-access</url>
+  <categories>
+    <category>Network</category>
+  </categories>
+  <provides>
+    <binary>appgate</binary>
+    <mediatype>x-scheme-handler/appgate</mediatype>
+  </provides>
+</component>
+<component type="desktop-application">
+  <id>makemkv.desktop</id>
+  <name>MakeMKV</name>
+  <summary>DVD and Blu-ray to MKV converter and network streamer</summary>
+  <description>
+    <p>makemkv is a one-click QT application that transcodes an encrypted
+blu-ray or DVD disc into a more portable set of mkv files, preserving
+subtitles, chapter marks, all video and audio tracks.
+
+Program is time-limited -- it will stop functioning after 60 days. You
+can always download the latest version from makemkv.com that will reset the
+expiration date.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>makemkv is a one-click QT application that transcodes an encrypted
+blu-ray or DVD disc into a more portable set of mkv files, preserving
+subtitles, chapter marks, all video and audio tracks.
+
+Program is time-limited -- it will stop functioning after 60 days. You
+can always download the latest version from makemkv.com that will reset the
+expiration date.
+</p>
+  </description>
+  <pkgname>makemkv</pkgname>
+  <launchable type="desktop-id">makemkv.desktop</launchable>
+  <icon type="cached" width="48" height="48">makemkv_makemkv.png</icon>
+  <icon type="cached" width="64" height="64">makemkv_makemkv.png</icon>
+  <icon type="cached" width="128" height="128">makemkv_makemkv.png</icon>
+  <icon type="stock">makemkv</icon>
+  <categories>
+    <category>AudioVideo</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>com.valvesoftware.Steam.desktop</id>
+  <name>Steam</name>
+  <summary>Launcher for the Steam software distribution service</summary>
+  <project_license>LicenseRef-proprietary</project_license>
+  <description>
+    <p>Steam is a software distribution service with an online store, automated
+      installation, automatic updates, achievements, SteamCloud synchronized
+      savegame and screenshot functionality, and many social features.</p>
+  </description>
+  <developer id="com.valvesoftware">
+    <name>Valve Corporation</name>
+  </developer>
+  <developer_name>Valve Corporation</developer_name>
+  <pkgname>steam</pkgname>
+  <launchable type="desktop-id">steam.desktop</launchable>
+  <icon type="cached" width="48" height="48">steam_steam.png</icon>
+  <icon type="cached" width="64" height="64">steam_steam.png</icon>
+  <icon type="cached" width="128" height="128">steam_steam.png</icon>
+  <icon type="stock">steam</icon>
+  <url type="homepage">https://store.steampowered.com/</url>
+  <url type="bugtracker">https://github.com/ValveSoftware/steam-for-linux/issues</url>
+  <categories>
+    <category>Game</category>
+    <category>PackageManager</category>
+  </categories>
+  <provides>
+    <mediatype>x-scheme-handler/steam</mediatype>
+    <mediatype>x-scheme-handler/steamlink</mediatype>
+  </provides>
+  <screenshots>
+    <screenshot>
+      <image type="source" width="1200" height="1026">https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/27766192/27b935179076c418c2f62f9440aba9c06161e4c0.jpg</image>
+    </screenshot>
+    <screenshot type="default">
+      <image type="source" width="1200" height="582">https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/27766192/ac26dea63042eec4886d5fa27854517ce374b11e.jpg</image>
+    </screenshot>
+    <screenshot>
+      <image type="source" width="1200" height="535">https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/27766192/563daff788965a9f0aa4525190ef12d8c10832d6.jpg</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release type="stable" version="1.0.0.85" timestamp="1759190400"/>
+    <release type="stable" version="1.0.0.84" timestamp="1755561600"/>
+    <release type="stable" version="1.0.0.83" timestamp="1745452800"/>
+    <release type="stable" version="1.0.0.82" timestamp="1727913600"/>
+  </releases>
+  <content_rating type="oars-1.1">
+    <content_attribute id="social-chat">intense</content_attribute>
+    <content_attribute id="social-info">intense</content_attribute>
+    <content_attribute id="social-audio">intense</content_attribute>
+    <content_attribute id="money-purchasing">intense</content_attribute>
+  </content_rating>
+</component>
+<component type="desktop-application">
+  <id>pdfstudio2022.desktop</id>
+  <name>PDF Studio 2022</name>
+  <summary>Views and edits PDF files</summary>
+  <description>
+    <p>PDF Studio is an easy to use, full-featured PDF editing software. This is the standard/pro edition, which requires a license. For the free PDF Studio Viewer see the package pdfstudioviewer.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>PDF Studio is an easy to use, full-featured PDF editing software. This is the standard/pro edition, which requires a license. For the free PDF Studio Viewer see the package pdfstudioviewer.
+</p>
+  </description>
+  <pkgname>pdfstudio2022</pkgname>
+  <launchable type="desktop-id">pdfstudio2022.desktop</launchable>
+  <icon type="cached" width="64" height="64">pdfstudio2022_pdfstudio2022.png</icon>
+  <icon type="stock">pdfstudio2022</icon>
+  <categories>
+    <category>Office</category>
+  </categories>
+  <provides>
+    <mediatype>application/pdf</mediatype>
+  </provides>
+</component>
+<component type="desktop-application">
+  <id>goland.desktop</id>
+  <name>Goland</name>
+  <summary>Goland is a commercial IDE by JetBrains aimed at providing an ergonomic environment for Go development. The IDE extends the IntelliJ platform with the coding assistance and tool integrations specific for the Go language.</summary>
+  <description>
+    <p>Goland is a commercial IDE by JetBrains aimed at providing an ergonomic environment for Go development.
+The IDE extends the IntelliJ platform with the coding assistance and tool integrations specific for the Go language.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>Goland is a commercial IDE by JetBrains aimed at providing an ergonomic environment for Go development.
+The IDE extends the IntelliJ platform with the coding assistance and tool integrations specific for the Go language.
+</p>
+  </description>
+  <pkgname>jetbrains.goland</pkgname>
+  <launchable type="desktop-id">goland.desktop</launchable>
+  <icon type="cached" width="48" height="48">jetbrains.goland_goland.png</icon>
+  <icon type="cached" width="64" height="64">jetbrains.goland_goland.png</icon>
+  <icon type="cached" width="128" height="128">jetbrains.goland_goland.png</icon>
+  <icon type="stock">goland</icon>
+  <categories>
+    <category>Development</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>jprofiler.desktop</id>
+  <name>JProfiler</name>
+  <summary>Java profiler for deep JVM analysis</summary>
+  <description>
+    <p>JProfiler bridges high-level analytics and low-level JVM data,
+delivering unmatched insights to solve your toughest performance
+problems, memory leaks, threading issues, and higher-level problems in
+technologies like JDBC, JPA, and more.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>JProfiler bridges high-level analytics and low-level JVM data,
+delivering unmatched insights to solve your toughest performance
+problems, memory leaks, threading issues, and higher-level problems in
+technologies like JDBC, JPA, and more.
+</p>
+  </description>
+  <pkgname>jprofiler</pkgname>
+  <launchable type="desktop-id">jprofiler.desktop</launchable>
+  <icon type="cached" width="48" height="48">jprofiler_jprofiler.png</icon>
+  <icon type="cached" width="64" height="64">jprofiler_jprofiler.png</icon>
+  <icon type="cached" width="128" height="128">jprofiler_jprofiler.png</icon>
+  <icon type="stock">jprofiler</icon>
+  <categories>
+    <category>Development</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>com.bitwig.BitwigStudio</id>
+  <name>Bitwig Studio</name>
+  <summary>Modern music production and performance for Windows, macOS, and Linux</summary>
+  <project_license>LicenseRef-proprietary</project_license>
+  <description>
+    <p>Bitwig Studio is a digital audio workstation (DAW) that inspires you to take greater control of your music,
+    giving you access to every aspect of your production. Streamline your creative process and quickly evolve your
+    ideas into complete songs, tracks, and compositions. Record and arrange, improvise and perform, or do it all at once.
+    Design sounds. Build instruments. <em>Make music.</em></p>
+  </description>
+  <pkgname>bitwig-studio3</pkgname>
+  <launchable type="desktop-id">com.bitwig.BitwigStudio.desktop</launchable>
+  <icon type="cached" width="48" height="48">bitwig-studio3_com.bitwig.BitwigStudio.png</icon>
+  <icon type="cached" width="64" height="64">bitwig-studio3_com.bitwig.BitwigStudio.png</icon>
+  <icon type="cached" width="128" height="128">bitwig-studio3_com.bitwig.BitwigStudio.png</icon>
+  <icon type="stock">com.bitwig.BitwigStudio</icon>
+  <url type="homepage">https://www.bitwig.com/</url>
+  <url type="faq">https://www.bitwig.com/support/</url>
+  <url type="help">https://www.bitwig.com/learn/</url>
+  <url type="contact">https://www.bitwig.com/contact/</url>
+  <categories>
+    <category>AudioVideo</category>
+    <category>Music</category>
+    <category>Audio</category>
+    <category>Sequencer</category>
+    <category>Midi</category>
+    <category>Mixer</category>
+    <category>Player</category>
+    <category>Recorder</category>
+  </categories>
+  <provides>
+    <mediatype>application/bitwig-project</mediatype>
+    <mediatype>application/bitwig-clip</mediatype>
+    <mediatype>application/bitwig-scene</mediatype>
+    <mediatype>application/bitwig-device</mediatype>
+    <mediatype>application/bitwig-module</mediatype>
+    <mediatype>application/bitwig-modulator</mediatype>
+    <mediatype>application/bitwig-preset</mediatype>
+    <mediatype>application/bitwig-template</mediatype>
+    <mediatype>application/bitwig-package</mediatype>
+    <mediatype>application/bitwig-extension</mediatype>
+    <mediatype>application/bitwig-remote-controls</mediatype>
+  </provides>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Bitwig Studio</caption>
+      <image type="source" width="2600" height="1200">https://www.bitwig.com/media/image/bitwig-home_bitwig-studio/Bitwig-Home_Bitwig-Studio.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Bitwig main workflow</caption>
+      <image type="source" width="2580" height="815">https://www.bitwig.com/media/image/bitwig-home_bws3-2_customized-workflow/Bitwig-Home_BWS3-2_Customized-Workflow.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Modulation Heaven</caption>
+      <image type="source" width="2040" height="989">https://www.bitwig.com/media/image/bitwig-studio-bws3_modulators_2/Bitwig-Studio-BWS3_Modulators_2.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Hardware Integration</caption>
+      <image type="source" width="1400" height="817">https://www.bitwig.com/media/image/bitwig_bws3-1_hw_integration/Bitwig_BWS3-1_HW-Integration.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Enter The Grid</caption>
+      <image type="source" width="2864" height="1561">https://www.bitwig.com/media/image/bitwig-bws3-2_enter-the-grid/Bitwig-BWS3-2_Enter-the-Grid.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Sampler, Resampled</caption>
+      <image type="source" width="1880" height="1055">https://www.bitwig.com/media/image/bitwig-bws3-2_sampler-main/Bitwig-BWS3-2_Sampler-Main.png</image>
+    </screenshot>
+  </screenshots>
+  <keywords>
+    <keyword>daw</keyword>
+    <keyword>bitwig</keyword>
+    <keyword>audio</keyword>
+    <keyword>midi</keyword>
+  </keywords>
+  <releases>
+    <release type="stable" version="3.3.11" timestamp="1624492800"/>
+  </releases>
+  <content_rating type="oars-1.1"/>
+</component>
+<component type="desktop-application">
+  <id>katawa-shoujo.desktop</id>
+  <name>Katawa Shoujo</name>
+  <summary>Bishoujo-style visual novel by Four Leaf Studios, built in Ren'Py</summary>
+  <description>
+    <p>Katawa Shoujo is a bishoujo-style visual novel set in the fictional Yamaku High School for disabled children,
+located somewhere in modern Japan. Hisao Nakai, a normal boy living a normal life, has his life turned upside down
+when a congenital heart defect forces him to move to a new school after a long hospitalization. Despite his difficulties,
+Hisao is able to find friends—and perhaps love, if he plays his cards right. There are five main paths corresponding
+to the 5 main female characters, each path following the storyline pertaining to that character.
+
+The story is told through the perspective of the main character, using a first person narrative. The game uses a
+traditional text and sprite-based visual novel model with an ADV text box.
+
+Katawa Shoujo contains adult material, and was created using the Ren'Py scripting system. It is the product of an
+international team of amateur developers, and is available free of charge under the Creative Commons BY-NC-ND License.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>Katawa Shoujo is a bishoujo-style visual novel set in the fictional Yamaku High School for disabled children,
+located somewhere in modern Japan. Hisao Nakai, a normal boy living a normal life, has his life turned upside down
+when a congenital heart defect forces him to move to a new school after a long hospitalization. Despite his difficulties,
+Hisao is able to find friends—and perhaps love, if he plays his cards right. There are five main paths corresponding
+to the 5 main female characters, each path following the storyline pertaining to that character.
+
+The story is told through the perspective of the main character, using a first person narrative. The game uses a
+traditional text and sprite-based visual novel model with an ADV text box.
+
+Katawa Shoujo contains adult material, and was created using the Ren'Py scripting system. It is the product of an
+international team of amateur developers, and is available free of charge under the Creative Commons BY-NC-ND License.
+</p>
+  </description>
+  <pkgname>katawa-shoujo</pkgname>
+  <launchable type="desktop-id">katawa-shoujo.desktop</launchable>
+  <icon type="cached" width="64" height="64">katawa-shoujo_katawa-shoujo.png</icon>
+  <icon type="cached" width="128" height="128">katawa-shoujo_katawa-shoujo.png</icon>
+  <icon type="stock">katawa-shoujo</icon>
+  <categories>
+    <category>Game</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>xnconvert.desktop</id>
+  <name>XnConvert</name>
+  <summary>A fast, powerful and free cross-platform batch image converter.</summary>
+  <description>
+    <p>XnConvert is a fast, powerful and free cross-platform batch image converter.
+It allows to automate editing of your photo collections: you can rotate,
+convert and compress your images, photos and pictures easily, and apply over
+80 actions (like resize, crop, color adjustments, filter, ...).
+All common picture and graphics formats are supported (JPEG, TIFF, PNG, GIF,
+WebP, PSD, JPEG2000, JPEG-XL, OpenEXR, camera RAW, HEIC, PDF, DNG, CR2).
+You can save and re-use your presets for another batch image conversion.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>XnConvert is a fast, powerful and free cross-platform batch image converter.
+It allows to automate editing of your photo collections: you can rotate,
+convert and compress your images, photos and pictures easily, and apply over
+80 actions (like resize, crop, color adjustments, filter, ...).
+All common picture and graphics formats are supported (JPEG, TIFF, PNG, GIF,
+WebP, PSD, JPEG2000, JPEG-XL, OpenEXR, camera RAW, HEIC, PDF, DNG, CR2).
+You can save and re-use your presets for another batch image conversion.
+</p>
+  </description>
+  <pkgname>xnconvert</pkgname>
+  <launchable type="desktop-id">xnconvert.desktop</launchable>
+  <icon type="cached" width="64" height="64">xnconvert_xnconvert.png</icon>
+  <icon type="cached" width="128" height="128">xnconvert_xnconvert.png</icon>
+  <icon type="stock">xnconvert</icon>
+  <categories>
+    <category>Graphics</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>factorio.desktop</id>
+  <name>Factorio</name>
+  <summary>A game in which you build and maintain factories.</summary>
+  <description>
+    <p>Factorio is a game in which you build and maintain factories.
+
+You will be mining resources, researching technologies, building
+infrastructure, automating production and fighting enemies. Use your
+imagination to design your factory, combine simple elements into
+ingenious structures, apply management skills to keep it working and
+finally protect it from the creatures who don't really like you.
+
+Factorio has been in development since spring of 2012, and reached
+version 1.0 in mid 2020.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>Factorio is a game in which you build and maintain factories.
+
+You will be mining resources, researching technologies, building
+infrastructure, automating production and fighting enemies. Use your
+imagination to design your factory, combine simple elements into
+ingenious structures, apply management skills to keep it working and
+finally protect it from the creatures who don't really like you.
+
+Factorio has been in development since spring of 2012, and reached
+version 1.0 in mid 2020.
+</p>
+  </description>
+  <pkgname>factorio-demo</pkgname>
+  <launchable type="desktop-id">factorio.desktop</launchable>
+  <icon type="cached" width="48" height="48">factorio-demo_factorio.png</icon>
+  <icon type="cached" width="64" height="64">factorio-demo_factorio.png</icon>
+  <icon type="cached" width="128" height="128">factorio-demo_factorio.png</icon>
+  <icon type="stock">factorio</icon>
+  <categories>
+    <category>Game</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>irpf.desktop</id>
+  <name>Imposto de Renda Pessoa Física</name>
+  <summary>Programa Oficial da Receita para elaboração do IRPF</summary>
+  <description>
+    <p>Brazillian government application for reporting income tax.
+
+IRFP - Imposto de Renda Pessoa Física - Receita Federal do Brasil.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>Brazillian government application for reporting income tax.
+
+IRFP - Imposto de Renda Pessoa Física - Receita Federal do Brasil.
+</p>
+  </description>
+  <pkgname>irpf</pkgname>
+  <launchable type="desktop-id">irpf.desktop</launchable>
+  <icon type="cached" width="64" height="64">irpf_rfb64.png</icon>
+  <icon type="stock">rfb64</icon>
+  <categories>
+    <category>Office</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>pdfstudio2024.desktop</id>
+  <name>PDF Studio 2024</name>
+  <summary>Views and edits PDF files</summary>
+  <description>
+    <p>PDF Studio is an easy to use, full-featured PDF editing software. This is the standard/pro edition, which requires a license. For the free PDF Studio Viewer see the package pdfstudioviewer.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>PDF Studio is an easy to use, full-featured PDF editing software. This is the standard/pro edition, which requires a license. For the free PDF Studio Viewer see the package pdfstudioviewer.
+</p>
+  </description>
+  <pkgname>pdfstudio2024</pkgname>
+  <launchable type="desktop-id">pdfstudio2024.desktop</launchable>
+  <icon type="cached" width="64" height="64">pdfstudio2024_pdfstudio2024.png</icon>
+  <icon type="stock">pdfstudio2024</icon>
+  <categories>
+    <category>Office</category>
+  </categories>
+  <provides>
+    <mediatype>application/pdf</mediatype>
+  </provides>
+</component>
+<component type="desktop-application">
+  <id>code.desktop</id>
+  <name>Visual Studio Code</name>
+  <summary>Code Editing. Redefined.</summary>
+  <description>
+    <p>Code editor developed by Microsoft. It includes support for debugging,
+embedded Git control, syntax highlighting, intelligent code completion,
+snippets, and code refactoring. It is also customizable, so users can
+change the editor's theme, keyboard shortcuts, and preferences
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>Code editor developed by Microsoft. It includes support for debugging,
+embedded Git control, syntax highlighting, intelligent code completion,
+snippets, and code refactoring. It is also customizable, so users can
+change the editor's theme, keyboard shortcuts, and preferences
+</p>
+  </description>
+  <pkgname>vscode</pkgname>
+  <launchable type="desktop-id">code.desktop</launchable>
+  <icon type="cached" width="64" height="64">vscode_vscode.png</icon>
+  <icon type="stock">vscode</icon>
+  <categories>
+    <category>Utility</category>
+    <category>TextEditor</category>
+    <category>Development</category>
+    <category>IDE</category>
+  </categories>
+  <keywords>
+    <keyword>vscode</keyword>
+  </keywords>
+</component>
+<component type="desktop-application">
+  <id>lunatask.desktop</id>
+  <name>Lunatask</name>
+  <summary>Encrypted to-do list, habit and mood tracker, journaling and notes app</summary>
+  <description>
+    <p>Lunatask is an all-in-one encrypted todo list, notebook, habit and mood tracker, pomodoro timer, and journaling app. It remembers stuff for you and keeps track of your mental health.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>Lunatask is an all-in-one encrypted todo list, notebook, habit and mood tracker, pomodoro timer, and journaling app. It remembers stuff for you and keeps track of your mental health.
+</p>
+  </description>
+  <pkgname>lunatask</pkgname>
+  <launchable type="desktop-id">lunatask.desktop</launchable>
+  <icon type="cached" width="64" height="64">lunatask_lunatask.png</icon>
+  <icon type="cached" width="128" height="128">lunatask_lunatask.png</icon>
+  <icon type="stock">lunatask</icon>
+  <categories>
+    <category>Office</category>
+  </categories>
+  <provides>
+    <mediatype>x-scheme-handler/lunatask</mediatype>
+  </provides>
+</component>
+<component type="desktop-application">
+  <id>bytedance-feishu.desktop</id>
+  <name>Feishu</name>
+  <summary>飞书(Feishu)</summary>
+  <description>
+    <p>
+    飞书(Feishu)
+   </p>
+  </description>
+  <developer>
+    <name>Feishu Linux Team</name>
+  </developer>
+  <developer_name>Feishu Linux Team</developer_name>
+  <pkgname>feishu</pkgname>
+  <launchable type="desktop-id">bytedance-feishu.desktop</launchable>
+  <icon type="cached" width="48" height="48">feishu_bytedance-feishu.png</icon>
+  <icon type="cached" width="64" height="64">feishu_bytedance-feishu.png</icon>
+  <icon type="cached" width="128" height="128">feishu_bytedance-feishu.png</icon>
+  <icon type="stock">bytedance-feishu</icon>
+  <url type="homepage">https://feishu.cn/</url>
+  <categories>
+    <category>Office</category>
+  </categories>
+  <provides>
+    <mediatype>message/rfc822</mediatype>
+    <mediatype>x-scheme-handler/feishu</mediatype>
+    <mediatype>x-scheme-handler/feishu-open</mediatype>
+    <mediatype>x-scheme-handler/lark</mediatype>
+    <mediatype>x-scheme-handler/x-feishu</mediatype>
+  </provides>
+</component>
+<component type="desktop-application">
+  <id>TETR.IO.desktop</id>
+  <name>TETR.IO</name>
+  <summary>Puzzle together in this modern yet familiar online stacker!</summary>
+  <description>
+    <p>TETR.IO is a free-to-win modern yet familiar online stacker.
+Play multiplayer games against friends and foes all over the world, or claim a spot on the leaderboards - the stacker future is yours!
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>TETR.IO is a free-to-win modern yet familiar online stacker.
+Play multiplayer games against friends and foes all over the world, or claim a spot on the leaderboards - the stacker future is yours!
+</p>
+  </description>
+  <pkgname>tetrio-desktop</pkgname>
+  <launchable type="desktop-id">TETR.IO.desktop</launchable>
+  <icon type="cached" width="64" height="64">tetrio-desktop_TETR.IO.png</icon>
+  <icon type="cached" width="128" height="128">tetrio-desktop_TETR.IO.png</icon>
+  <icon type="stock">TETR.IO</icon>
+  <categories>
+    <category>Game</category>
+    <category>BlocksGame</category>
+  </categories>
+  <provides>
+    <mediatype>x-scheme-handler/tetrio</mediatype>
+  </provides>
+</component>
+<component type="desktop-application">
+  <id>segger-ozone.desktop</id>
+  <name>Ozone</name>
+  <summary>SEGGER Ozone</summary>
+  <description>
+    <p>Ozone is a cross-platform debugger and performance analyzer for J-Link
+and J-Trace.
+
+  - Stand-alone graphical debugger
+  - Debug output of any tool chain and IDE 1
+  - C/C++ source level debugging and assembly instruction debugging
+  - Debug information windows for any purpose: disassembly, memory,
+    globals and locals, (live) watches, CPU and peripheral registers
+  - Source editor to fix bugs immediately
+  - High-speed programming of the application into the target
+  - Direct use of J-Link built-in features (Unlimited Flash
+    Breakpoints, Flash Download, Real Time Terminal, Instruction Trace)
+  - Scriptable project files to set up everything automatically
+    - New project wizard to ease the basic configuration of new projects
+
+1 Ozone has been tested with the output of the following compilers:
+GCC, Clang, ARM, IAR. Output of other compilers may be supported but is
+not guaranteed to be.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>Ozone is a cross-platform debugger and performance analyzer for J-Link
+and J-Trace.
+
+  - Stand-alone graphical debugger
+  - Debug output of any tool chain and IDE 1
+  - C/C++ source level debugging and assembly instruction debugging
+  - Debug information windows for any purpose: disassembly, memory,
+    globals and locals, (live) watches, CPU and peripheral registers
+  - Source editor to fix bugs immediately
+  - High-speed programming of the application into the target
+  - Direct use of J-Link built-in features (Unlimited Flash
+    Breakpoints, Flash Download, Real Time Terminal, Instruction Trace)
+  - Scriptable project files to set up everything automatically
+    - New project wizard to ease the basic configuration of new projects
+
+1 Ozone has been tested with the output of the following compilers:
+GCC, Clang, ARM, IAR. Output of other compilers may be supported but is
+not guaranteed to be.
+</p>
+  </description>
+  <pkgname>segger-ozone</pkgname>
+  <launchable type="desktop-id">segger-ozone.desktop</launchable>
+  <icon type="cached" width="64" height="64">segger-ozone_Ozone.png</icon>
+  <icon type="cached" width="128" height="128">segger-ozone_Ozone.png</icon>
+  <icon type="stock">Ozone</icon>
+  <categories>
+    <category>Development</category>
+    <category>Debugger</category>
+  </categories>
+  <keywords>
+    <keyword>ARM</keyword>
+    <keyword>Development</keyword>
+    <keyword>Embedded</keyword>
+  </keywords>
+</component>
+<component type="desktop-application">
+  <id>pycharm.desktop</id>
+  <name>PyCharm</name>
+  <summary>Python IDE with complete set of tools for productive development with Python programming language. In addition, the IDE provides high-class capabilities for professional Web development with Django framework and Google App Engine. It has powerful coding assistance, navigation, a lot of refactoring features, tight integration with various Version Control Systems, Unit testing and powerful Debugger.</summary>
+  <description>
+    <p>Python IDE with complete set of tools for productive development with Python programming language.
+In addition, the IDE provides high-class capabilities for professional Web development with Django framework and Google App Engine.
+It has powerful coding assistance, navigation, a lot of refactoring features, tight integration with various Version Control Systems, Unit testing and powerful Debugger.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>Python IDE with complete set of tools for productive development with Python programming language.
+In addition, the IDE provides high-class capabilities for professional Web development with Django framework and Google App Engine.
+It has powerful coding assistance, navigation, a lot of refactoring features, tight integration with various Version Control Systems, Unit testing and powerful Debugger.
+</p>
+  </description>
+  <pkgname>jetbrains.pycharm</pkgname>
+  <launchable type="desktop-id">pycharm.desktop</launchable>
+  <icon type="cached" width="48" height="48">jetbrains.pycharm_pycharm.png</icon>
+  <icon type="cached" width="64" height="64">jetbrains.pycharm_pycharm.png</icon>
+  <icon type="cached" width="128" height="128">jetbrains.pycharm_pycharm.png</icon>
+  <icon type="stock">pycharm</icon>
+  <categories>
+    <category>Development</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>albert.desktop</id>
+  <name>Albert</name>
+  <summary>A desktop agnostic launcher</summary>
+  <description>
+    <p>Albert is a desktop agnostic launcher. Its goals are usability and beauty,
+performance and extensibility. It is written in C++ and based on the Qt
+framework.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>Albert is a desktop agnostic launcher. Its goals are usability and beauty,
+performance and extensibility. It is written in C++ and based on the Qt
+framework.
+</p>
+  </description>
+  <pkgname>albert</pkgname>
+  <launchable type="desktop-id">albert.desktop</launchable>
+  <icon type="cached" width="48" height="48">albert_albert.png</icon>
+  <icon type="cached" width="64" height="64">albert_albert.png</icon>
+  <icon type="cached" width="128" height="128">albert_albert.png</icon>
+  <icon type="stock">albert</icon>
+  <categories>
+    <category>Utility</category>
+  </categories>
+  <provides>
+    <mediatype>x-scheme-handler/albert</mediatype>
+  </provides>
+</component>
+<component type="desktop-application">
+  <id>android-studio.desktop</id>
+  <name>Android Studio (stable channel)</name>
+  <summary>The official Android IDE</summary>
+  <description>
+    <p>Android Studio is the official IDE for Android app development, based on
+IntelliJ IDEA.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>Android Studio is the official IDE for Android app development, based on
+IntelliJ IDEA.
+</p>
+  </description>
+  <pkgname>android-studio</pkgname>
+  <launchable type="desktop-id">android-studio.desktop</launchable>
+  <icon type="cached" width="64" height="64">android-studio_android-studio.png</icon>
+  <icon type="stock">android-studio</icon>
+  <categories>
+    <category>Development</category>
+    <category>IDE</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>hifile.desktop</id>
+  <name>HiFile</name>
+  <summary>The best file manager at your service</summary>
+  <description>
+    <p>HiFile is the next evolution of file managers. Its mission is to increase your productivity whenever you work with files or folders. It aims to be better in every way - more convenient, more versatile, more efficient, more elegant, more customizable, and more fun.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>HiFile is the next evolution of file managers. Its mission is to increase your productivity whenever you work with files or folders. It aims to be better in every way - more convenient, more versatile, more efficient, more elegant, more customizable, and more fun.
+</p>
+  </description>
+  <pkgname>hifile</pkgname>
+  <launchable type="desktop-id">HiFile.desktop</launchable>
+  <icon type="cached" width="64" height="64">hifile_HiFile.png</icon>
+  <icon type="cached" width="128" height="128">hifile_HiFile.png</icon>
+  <icon type="stock">HiFile</icon>
+  <categories>
+    <category>Utility</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>grayjay.desktop</id>
+  <name>Grayjay Desktop</name>
+  <summary>Cross platform media application for streaming and downloading media</summary>
+  <description>
+    <p>Grayjay is a cross-platform application that enables users to
+stream and download multimedia content from various online sources,
+most prominently YouTube.
+It also offers an extensible plugin API to create and import new
+integrations.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>Grayjay is a cross-platform application that enables users to
+stream and download multimedia content from various online sources,
+most prominently YouTube.
+It also offers an extensible plugin API to create and import new
+integrations.
+</p>
+  </description>
+  <pkgname>grayjay</pkgname>
+  <launchable type="desktop-id">Grayjay.desktop</launchable>
+  <icon type="cached" width="48" height="48">grayjay_grayjay.png</icon>
+  <icon type="cached" width="64" height="64">grayjay_grayjay.png</icon>
+  <icon type="cached" width="128" height="128">grayjay_grayjay.png</icon>
+  <icon type="stock">grayjay</icon>
+  <categories>
+    <category>Network</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>pdfstudioviewer.desktop</id>
+  <name>PDF Studio Viewer</name>
+  <summary>Views and edits PDF files</summary>
+  <description>
+    <p>PDF Studio Viewer is an easy to use, full-featured PDF editing software. This is the free edition. For the standard/pro edition, see the package pdfstudio.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>PDF Studio Viewer is an easy to use, full-featured PDF editing software. This is the free edition. For the standard/pro edition, see the package pdfstudio.
+</p>
+  </description>
+  <pkgname>pdfstudioviewer</pkgname>
+  <launchable type="desktop-id">pdfstudioviewer.desktop</launchable>
+  <icon type="cached" width="64" height="64">pdfstudioviewer_pdfstudioviewer.png</icon>
+  <icon type="stock">pdfstudioviewer</icon>
+  <categories>
+    <category>Office</category>
+  </categories>
+  <provides>
+    <mediatype>application/pdf</mediatype>
+  </provides>
+</component>
+<component type="desktop-application">
+  <id>bcompare.desktop</id>
+  <name>Beyond Compare</name>
+  <summary>Compare, sync, and merge files and folders</summary>
+  <description>
+    <p>Beyond Compare is focused. Beyond Compare allows you to quickly and easily compare your files and folders.
+By using simple, powerful commands you can focus on the differences you're interested in and ignore those you're not.
+You can then merge the changes, synchronize your files, and generate reports for your records.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>Beyond Compare is focused. Beyond Compare allows you to quickly and easily compare your files and folders.
+By using simple, powerful commands you can focus on the differences you're interested in and ignore those you're not.
+You can then merge the changes, synchronize your files, and generate reports for your records.
+</p>
+  </description>
+  <pkgname>bcompare</pkgname>
+  <launchable type="desktop-id">bcompare.desktop</launchable>
+  <icon type="cached" width="64" height="64">bcompare_bcompare.png</icon>
+  <icon type="stock">bcompare</icon>
+  <categories>
+    <category>Development</category>
+  </categories>
+  <provides>
+    <mediatype>application/beyond.compare.snapshot</mediatype>
+  </provides>
+</component>
+<component type="desktop-application">
+  <id>pdfstudio2023.desktop</id>
+  <name>PDF Studio 2023</name>
+  <summary>Views and edits PDF files</summary>
+  <description>
+    <p>PDF Studio is an easy to use, full-featured PDF editing software. This is the standard/pro edition, which requires a license. For the free PDF Studio Viewer see the package pdfstudioviewer.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>PDF Studio is an easy to use, full-featured PDF editing software. This is the standard/pro edition, which requires a license. For the free PDF Studio Viewer see the package pdfstudioviewer.
+</p>
+  </description>
+  <pkgname>pdfstudio2023</pkgname>
+  <launchable type="desktop-id">pdfstudio2023.desktop</launchable>
+  <icon type="cached" width="64" height="64">pdfstudio2023_pdfstudio2023.png</icon>
+  <icon type="stock">pdfstudio2023</icon>
+  <categories>
+    <category>Office</category>
+  </categories>
+  <provides>
+    <mediatype>application/pdf</mediatype>
+  </provides>
+</component>
+<component type="desktop-application">
+  <id>windsurf.desktop</id>
+  <name>Windsurf</name>
+  <summary>Code Editing. Redefined.</summary>
+  <description>
+    <p>The first agentic IDE, and then some.
+The Windsurf Editor is where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>The first agentic IDE, and then some.
+The Windsurf Editor is where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic.
+</p>
+  </description>
+  <pkgname>windsurf</pkgname>
+  <launchable type="desktop-id">windsurf.desktop</launchable>
+  <icon type="cached" width="64" height="64">windsurf_windsurf.png</icon>
+  <icon type="stock">windsurf</icon>
+  <categories>
+    <category>Utility</category>
+    <category>TextEditor</category>
+    <category>Development</category>
+    <category>IDE</category>
+  </categories>
+  <keywords>
+    <keyword>vscode</keyword>
+  </keywords>
+</component>
+<component type="desktop-application">
+  <id>smartsynchronize.desktop</id>
+  <name>SmartSynchronize</name>
+  <summary>File Manager, File/Directory Compare</summary>
+  <description>
+    <p>SmartSynchronize is a dual-pane, keyboard-centric, multi-platform file manager.
+It also is known for its file compare, directory compare and file merge.
+SmartSynchronize is free to use for active Open Source developers and users from academic institutions.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>SmartSynchronize is a dual-pane, keyboard-centric, multi-platform file manager.
+It also is known for its file compare, directory compare and file merge.
+SmartSynchronize is free to use for active Open Source developers and users from academic institutions.
+</p>
+  </description>
+  <pkgname>smartsynchronize</pkgname>
+  <launchable type="desktop-id">smartsynchronize.desktop</launchable>
+  <icon type="cached" width="48" height="48">smartsynchronize_smartsynchronize.png</icon>
+  <icon type="cached" width="64" height="64">smartsynchronize_smartsynchronize.png</icon>
+  <icon type="cached" width="128" height="128">smartsynchronize_smartsynchronize.png</icon>
+  <icon type="stock">smartsynchronize</icon>
+  <categories>
+    <category>Development</category>
+  </categories>
+  <keywords>
+    <keyword>compare</keyword>
+    <keyword>file manager</keyword>
+  </keywords>
+</component>
+<component type="desktop-application">
+  <id>com.slack.Slack</id>
+  <name>Slack</name>
+  <summary>Desktop client for Slack</summary>
+  <project_license>LicenseRef-proprietary</project_license>
+  <description>
+    <p>Slack brings team communication and collaboration into one place so you can get more work done, whether you belong to a large enterprise or a small business. Tick off your to-do list and make progress on your projects by bringing the right people, conversations, tools and information you need together. Slack is available on any device, so you can find and access your team and your work whether you’re at your desk or on the go. </p>
+    <p>Scientifically proven (or at least rumoured) to make your working life simpler, more pleasant and more productive. We hope you’ll give Slack a try.  </p>
+  </description>
+  <developer id="com.slack">
+    <name>Slack Technologies Inc.</name>
+  </developer>
+  <developer_name>Slack Technologies Inc.</developer_name>
+  <pkgname>slack</pkgname>
+  <launchable type="desktop-id">slack.desktop</launchable>
+  <icon type="cached" width="64" height="64">slack_slack.png</icon>
+  <icon type="stock">slack</icon>
+  <url type="homepage">https://slack.com</url>
+  <categories>
+    <category>Network</category>
+    <category>InstantMessaging</category>
+  </categories>
+  <provides>
+    <mediatype>x-scheme-handler/slack</mediatype>
+  </provides>
+</component>
+<component type="desktop-application">
+  <id>art.graphite.Graphite</id>
+  <name>Graphite</name>
+  <summary>Open-source vector &amp; raster graphics editor. Featuring node based procedural nondestructive editing workflow.</summary>
+  <description>
+    <p>Graphite is an open source vector graphics editor and procedural design engine.
+Create and animate with a nondestructive editing workflow that
+combines layer-based compositing with node-based generative design.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>Graphite is an open source vector graphics editor and procedural design engine.
+Create and animate with a nondestructive editing workflow that
+combines layer-based compositing with node-based generative design.
+</p>
+  </description>
+  <pkgname>graphite</pkgname>
+  <launchable type="desktop-id">art.graphite.Graphite.desktop</launchable>
+  <icon type="cached" width="48" height="48">graphite_art.graphite.Graphite.png</icon>
+  <icon type="cached" width="64" height="64">graphite_art.graphite.Graphite.png</icon>
+  <icon type="cached" width="128" height="128">graphite_art.graphite.Graphite.png</icon>
+  <icon type="stock">art.graphite.Graphite</icon>
+  <categories>
+    <category>Graphics</category>
+    <category>VectorGraphics</category>
+    <category>RasterGraphics</category>
+  </categories>
+  <keywords>
+    <keyword>graphite</keyword>
+    <keyword>editor</keyword>
+    <keyword>vector</keyword>
+    <keyword>raster</keyword>
+    <keyword>procedural</keyword>
+    <keyword>design</keyword>
+  </keywords>
+</component>
+<component type="desktop-application">
+  <id>idea.desktop</id>
+  <name>IntelliJ IDEA</name>
+  <summary>IDE for Java SE, Groovy &amp; Scala development Powerful environment for building Google Android apps Integration with JUnit, TestNG, popular SCMs, Ant &amp; Maven. Also known as IntelliJ.</summary>
+  <description>
+    <p>IDE for Java SE, Groovy &amp; Scala development Powerful environment for building Google Android apps Integration with JUnit, TestNG, popular SCMs, Ant &amp; Maven.
+Also known as IntelliJ.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>IDE for Java SE, Groovy &amp; Scala development Powerful environment for building Google Android apps Integration with JUnit, TestNG, popular SCMs, Ant &amp; Maven.
+Also known as IntelliJ.
+</p>
+  </description>
+  <pkgname>jetbrains.idea</pkgname>
+  <launchable type="desktop-id">idea.desktop</launchable>
+  <icon type="cached" width="48" height="48">jetbrains.idea_idea.png</icon>
+  <icon type="cached" width="64" height="64">jetbrains.idea_idea.png</icon>
+  <icon type="cached" width="128" height="128">jetbrains.idea_idea.png</icon>
+  <icon type="stock">idea</icon>
+  <categories>
+    <category>Development</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>com.spotify.Client</id>
+  <name>Spotify</name>
+  <summary>Play music from the Spotify music service</summary>
+  <project_license>LicenseRef-proprietary</project_license>
+  <description>
+    <p>Access all of your favorite music, discover new songs, and share music online with your friends - all in one place. Create shared playlists or share individual songs with your Facebook friends with just a click of a button. Follow your favorite artists or friends to know what they are listening to, and then save the songs to your own playlists. Spotify is the best way to have access to millions of songs and all the latest hits. </p>
+  </description>
+  <developer id="com.spotify">
+    <name>Spotify</name>
+  </developer>
+  <developer_name>Spotify</developer_name>
+  <pkgname>spotify</pkgname>
+  <launchable type="desktop-id">spotify.desktop</launchable>
+  <icon type="cached" width="48" height="48">spotify_spotify-client.png</icon>
+  <icon type="cached" width="64" height="64">spotify_spotify-client.png</icon>
+  <icon type="cached" width="128" height="128">spotify_spotify-client.png</icon>
+  <icon type="stock">spotify-client</icon>
+  <url type="homepage">https://www.spotify.com/</url>
+  <categories>
+    <category>Audio</category>
+    <category>Music</category>
+    <category>Player</category>
+    <category>AudioVideo</category>
+  </categories>
+  <provides>
+    <mediatype>x-scheme-handler/spotify</mediatype>
+  </provides>
+</component>
+<component type="desktop-application">
+  <id>phpstorm.desktop</id>
+  <name>PhpStorm</name>
+  <summary>PhpStorm provides an editor for PHP, HTML and JavaScript with on-the-fly code analysis, error prevention and automated refactorings for PHP and JavaScript code.</summary>
+  <description>
+    <p>PhpStorm provides an editor for PHP, HTML and JavaScript with on-the-fly code analysis, error prevention and automated refactorings for PHP and JavaScript code.</p>
+  </description>
+  <description xml:lang="en">
+    <p>PhpStorm provides an editor for PHP, HTML and JavaScript with on-the-fly code analysis, error prevention and automated refactorings for PHP and JavaScript code.</p>
+  </description>
+  <pkgname>jetbrains.phpstorm</pkgname>
+  <launchable type="desktop-id">phpstorm.desktop</launchable>
+  <icon type="cached" width="48" height="48">jetbrains.phpstorm_phpstorm.png</icon>
+  <icon type="cached" width="64" height="64">jetbrains.phpstorm_phpstorm.png</icon>
+  <icon type="cached" width="128" height="128">jetbrains.phpstorm_phpstorm.png</icon>
+  <icon type="stock">phpstorm</icon>
+  <categories>
+    <category>Development</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>google-chrome.desktop</id>
+  <name>Google Chrome</name>
+  <summary>The web browser from Google</summary>
+  <project_license>Freeware under Google Chrome Terms of Service</project_license>
+  <description>
+    <p>
+    Google Chrome is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
+    </p>
+  </description>
+  <developer>
+    <name>Google</name>
+  </developer>
+  <developer_name>Google</developer_name>
+  <pkgname>google-chrome</pkgname>
+  <launchable type="desktop-id">google-chrome.desktop</launchable>
+  <icon type="cached" width="48" height="48">google-chrome_google-chrome.png</icon>
+  <icon type="cached" width="64" height="64">google-chrome_google-chrome.png</icon>
+  <icon type="cached" width="128" height="128">google-chrome_google-chrome.png</icon>
+  <icon type="stock">google-chrome</icon>
+  <url type="homepage">https://chrome.google.com/</url>
+  <url type="bugtracker">https://support.google.com/chrome/?p=feedback</url>
+  <url type="help">https://support.google.com/chrome</url>
+  <categories>
+    <category>Network</category>
+    <category>WebBrowser</category>
+  </categories>
+  <provides>
+    <mediatype>application/pdf</mediatype>
+    <mediatype>application/rdf+xml</mediatype>
+    <mediatype>application/rss+xml</mediatype>
+    <mediatype>application/xhtml+xml</mediatype>
+    <mediatype>application/xhtml_xml</mediatype>
+    <mediatype>application/xml</mediatype>
+    <mediatype>image/gif</mediatype>
+    <mediatype>image/jpeg</mediatype>
+    <mediatype>image/png</mediatype>
+    <mediatype>image/webp</mediatype>
+    <mediatype>text/html</mediatype>
+    <mediatype>text/xml</mediatype>
+    <mediatype>x-scheme-handler/http</mediatype>
+    <mediatype>x-scheme-handler/https</mediatype>
+    <mediatype>x-scheme-handler/google-chrome</mediatype>
+  </provides>
+  <screenshots>
+    <screenshot type="default">
+      <image type="source" width="1600" height="900">https://www.gstatic.com/chrome/appstream/chrome-2.png</image>
+    </screenshot>
+  </screenshots>
+</component>
+<component type="desktop-application">
+  <id>clion.desktop</id>
+  <name>CLion</name>
+  <summary>Enhancing productivity for every C and C++ developer on Linux, macOS and Windows.</summary>
+  <description>
+    <p>Enhancing productivity for every C and C++ developer on Linux, macOS and Windows.</p>
+  </description>
+  <description xml:lang="en">
+    <p>Enhancing productivity for every C and C++ developer on Linux, macOS and Windows.</p>
+  </description>
+  <pkgname>jetbrains.clion</pkgname>
+  <launchable type="desktop-id">clion.desktop</launchable>
+  <icon type="cached" width="48" height="48">jetbrains.clion_clion.png</icon>
+  <icon type="cached" width="64" height="64">jetbrains.clion_clion.png</icon>
+  <icon type="cached" width="128" height="128">jetbrains.clion_clion.png</icon>
+  <icon type="stock">clion</icon>
+  <categories>
+    <category>Development</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>rider.desktop</id>
+  <name>Rider</name>
+  <summary>JetBrains Rider is a new .NET IDE based on the IntelliJ platform and ReSharper. Rider supports .NET Core, .NET Framework and Mono based projects. This lets you develop a wide array of applications including .NET desktop apps, services and libraries, Unity games, ASP.NET and ASP.NET Core web applications.</summary>
+  <description>
+    <p>JetBrains Rider is a new .NET IDE based on the IntelliJ platform and ReSharper.
+Rider supports .NET Core, .NET Framework and Mono based projects.
+This lets you develop a wide array of applications including .NET desktop apps, services and libraries, Unity games, ASP.NET and ASP.NET Core web applications.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>JetBrains Rider is a new .NET IDE based on the IntelliJ platform and ReSharper.
+Rider supports .NET Core, .NET Framework and Mono based projects.
+This lets you develop a wide array of applications including .NET desktop apps, services and libraries, Unity games, ASP.NET and ASP.NET Core web applications.
+</p>
+  </description>
+  <pkgname>jetbrains.rider</pkgname>
+  <launchable type="desktop-id">rider.desktop</launchable>
+  <icon type="cached" width="48" height="48">jetbrains.rider_rider.png</icon>
+  <icon type="cached" width="64" height="64">jetbrains.rider_rider.png</icon>
+  <icon type="cached" width="128" height="128">jetbrains.rider_rider.png</icon>
+  <icon type="stock">rider</icon>
+  <categories>
+    <category>Development</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>stm32cubemx.desktop</id>
+  <name>STM32CubeMX</name>
+  <summary>Graphical tool for configuring STM32 microcontrollers and microprocessors</summary>
+  <description>
+    <p>A graphical tool that allows a very easy configuration of STM32
+microcontrollers and microprocessors, as well as the generation of the
+corresponding initialization C code for the Arm® Cortex®-M core or a
+partial Linux® Device Tree for Arm® Cortex®-A core), through a
+step-by-step process.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>A graphical tool that allows a very easy configuration of STM32
+microcontrollers and microprocessors, as well as the generation of the
+corresponding initialization C code for the Arm® Cortex®-M core or a
+partial Linux® Device Tree for Arm® Cortex®-A core), through a
+step-by-step process.
+</p>
+  </description>
+  <pkgname>stm32cubemx</pkgname>
+  <launchable type="desktop-id">STM32CubeMX.desktop</launchable>
+  <icon type="cached" width="48" height="48">stm32cubemx_stm32cubemx.png</icon>
+  <icon type="cached" width="64" height="64">stm32cubemx_stm32cubemx.png</icon>
+  <icon type="cached" width="128" height="128">stm32cubemx_stm32cubemx.png</icon>
+  <icon type="stock">stm32cubemx</icon>
+  <categories>
+    <category>Development</category>
+  </categories>
+  <provides>
+    <mediatype>x-scheme-handler/sgnl</mediatype>
+    <mediatype>x-scheme-handler/signalcaptcha</mediatype>
+  </provides>
+</component>
+<component type="desktop-application">
+  <id>com.aptakube.Aptakube</id>
+  <name>Aptakube</name>
+  <summary>Modern, lightweight and multi-cluster Kubernetes management UI</summary>
+  <project_license>LicenseRef-proprietary</project_license>
+  <description>
+    <p>Aptakube is a Desktop Client for Kubernetes. You can connect to multiple clusters, manage workloads, view logs, compare resources, and a lot more.</p>
+  </description>
+  <pkgname>aptakube</pkgname>
+  <launchable type="desktop-id">aptakube.desktop</launchable>
+  <icon type="cached" width="48" height="48">aptakube_aptakube.png</icon>
+  <icon type="cached" width="48" height="48" scale="2">aptakube_aptakube.png</icon>
+  <icon type="cached" width="64" height="64">aptakube_aptakube.png</icon>
+  <icon type="cached" width="64" height="64" scale="2">aptakube_aptakube.png</icon>
+  <icon type="cached" width="128" height="128">aptakube_aptakube.png</icon>
+  <icon type="cached" width="128" height="128" scale="2">aptakube_aptakube.png</icon>
+  <icon type="stock">aptakube</icon>
+  <url type="homepage">https://aptakube.com</url>
+  <categories>
+    <category>Development</category>
+  </categories>
+  <provides>
+    <id>aptakube.desktop</id>
+    <mediatype>x-scheme-handler/aptakube</mediatype>
+  </provides>
+  <screenshots>
+    <screenshot type="default">
+      <image type="source" width="2416" height="1492">https://aptakube.com/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+</component>
+<component type="desktop-application">
+  <id>gateway.desktop</id>
+  <name>JetBrains Gateway</name>
+  <summary>JetBrains Gateway is a lightweight launcher that connects a remote server with your local machine and opens your project in JetBrains Client.</summary>
+  <description>
+    <p>JetBrains Gateway is a lightweight launcher that connects a remote server with your local machine and opens your project in JetBrains Client.</p>
+  </description>
+  <description xml:lang="en">
+    <p>JetBrains Gateway is a lightweight launcher that connects a remote server with your local machine and opens your project in JetBrains Client.</p>
+  </description>
+  <pkgname>jetbrains.gateway</pkgname>
+  <launchable type="desktop-id">gateway.desktop</launchable>
+  <icon type="cached" width="48" height="48">jetbrains.gateway_gateway.png</icon>
+  <icon type="cached" width="64" height="64">jetbrains.gateway_gateway.png</icon>
+  <icon type="cached" width="128" height="128">jetbrains.gateway_gateway.png</icon>
+  <icon type="stock">gateway</icon>
+  <categories>
+    <category>Development</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>pdfstudio2021.desktop</id>
+  <name>PDF Studio 2021</name>
+  <summary>Views and edits PDF files</summary>
+  <description>
+    <p>PDF Studio is an easy to use, full-featured PDF editing software. This is the standard/pro edition, which requires a license. For the free PDF Studio Viewer see the package pdfstudioviewer.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>PDF Studio is an easy to use, full-featured PDF editing software. This is the standard/pro edition, which requires a license. For the free PDF Studio Viewer see the package pdfstudioviewer.
+</p>
+  </description>
+  <pkgname>pdfstudio2021</pkgname>
+  <launchable type="desktop-id">pdfstudio2021.desktop</launchable>
+  <icon type="cached" width="64" height="64">pdfstudio2021_pdfstudio2021.png</icon>
+  <icon type="stock">pdfstudio2021</icon>
+  <categories>
+    <category>Office</category>
+  </categories>
+  <provides>
+    <mediatype>application/pdf</mediatype>
+  </provides>
+</component>
+<component type="desktop-application">
+  <id>webstorm.desktop</id>
+  <name>WebStorm</name>
+  <summary>WebStorm provides an editor for HTML, JavaScript (incl. Node.js), and CSS with on-the-fly code analysis, error prevention and automated refactorings for JavaScript code.</summary>
+  <description>
+    <p>WebStorm provides an editor for HTML, JavaScript (incl. Node.js), and CSS with on-the-fly code analysis, error prevention and automated refactorings for JavaScript code.</p>
+  </description>
+  <description xml:lang="en">
+    <p>WebStorm provides an editor for HTML, JavaScript (incl. Node.js), and CSS with on-the-fly code analysis, error prevention and automated refactorings for JavaScript code.</p>
+  </description>
+  <pkgname>jetbrains.webstorm</pkgname>
+  <launchable type="desktop-id">webstorm.desktop</launchable>
+  <icon type="cached" width="48" height="48">jetbrains.webstorm_webstorm.png</icon>
+  <icon type="cached" width="64" height="64">jetbrains.webstorm_webstorm.png</icon>
+  <icon type="cached" width="128" height="128">jetbrains.webstorm_webstorm.png</icon>
+  <icon type="stock">webstorm</icon>
+  <categories>
+    <category>Development</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>timeular.desktop</id>
+  <name>Timeular</name>
+  <summary>Timeular - the revolutionary time tracking device</summary>
+  <description>
+    <p>The Timeular Tracker is an 8-sided dice that sits on your desk.
+Assign an activity to each side and flip to start tracking your time.
+The desktop app tell you where every minute of your day is spent.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>The Timeular Tracker is an 8-sided dice that sits on your desk.
+Assign an activity to each side and flip to start tracking your time.
+The desktop app tell you where every minute of your day is spent.
+</p>
+  </description>
+  <pkgname>timeular</pkgname>
+  <launchable type="desktop-id">timeular.desktop</launchable>
+  <icon type="cached" width="64" height="64">timeular_timeular.png</icon>
+  <icon type="cached" width="128" height="128">timeular_timeular.png</icon>
+  <icon type="stock">timeular</icon>
+  <categories>
+    <category>Utility</category>
+  </categories>
+  <provides>
+    <mediatype>x-scheme-handler/timeular</mediatype>
+  </provides>
+</component>
+<component type="desktop-application">
+  <id>decent-sampler.desktop</id>
+  <name>Decent Sampler</name>
+  <summary>DecentSampler player</summary>
+  <description>
+    <p>Decent Sampler is an audio sample player.
+Allowing you to play sample libraries in the DecentSampler format
+(files with extensions: dspreset and dslibrary).
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>Decent Sampler is an audio sample player.
+Allowing you to play sample libraries in the DecentSampler format
+(files with extensions: dspreset and dslibrary).
+</p>
+  </description>
+  <pkgname>decent-sampler</pkgname>
+  <launchable type="desktop-id">decent-sampler.desktop</launchable>
+  <icon type="cached" width="64" height="64">decent-sampler_decent-sampler.png</icon>
+  <icon type="stock">decent-sampler</icon>
+  <categories>
+    <category>Audio</category>
+    <category>AudioVideo</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>com.github.k4zmu2a.spacecadetpinball</id>
+  <name>Space Cadet Pinball</name>
+  <summary>Game engine for Space Cadet Pinball</summary>
+  <project_license>MIT</project_license>
+  <description>
+    <p>
+            Reverse engineering of '3D Pinball for Windows - Space Cadet', a game bundled with Windows.
+        </p>
+  </description>
+  <developer>
+    <name>Andrey Muzychenko</name>
+  </developer>
+  <developer_name>Andrey Muzychenko</developer_name>
+  <pkgname>space-cadet-pinball</pkgname>
+  <launchable type="desktop-id">SpaceCadetPinball.desktop</launchable>
+  <icon type="cached" width="48" height="48">space-cadet-pinball_SpaceCadetPinball.png</icon>
+  <icon type="cached" width="64" height="64">space-cadet-pinball_SpaceCadetPinball.png</icon>
+  <icon type="cached" width="128" height="128">space-cadet-pinball_SpaceCadetPinball.png</icon>
+  <icon type="stock">SpaceCadetPinball</icon>
+  <url type="homepage">https://github.com/k4zmu2a/SpaceCadetPinball</url>
+  <url type="bugtracker">https://github.com/k4zmu2a/SpaceCadetPinball/issues</url>
+  <categories>
+    <category>Game</category>
+    <category>ArcadeGame</category>
+  </categories>
+  <provides>
+    <binary>SpaceCadetPinball</binary>
+  </provides>
+  <screenshots>
+    <screenshot type="default">
+      <image type="source" width="1920" height="1200">https://raw.githubusercontent.com/k4zmu2a/SpaceCadetPinball/master/Screenshots/screenshot-1.jpg</image>
+    </screenshot>
+    <screenshot>
+      <image type="source" width="1920" height="1200">https://raw.githubusercontent.com/k4zmu2a/SpaceCadetPinball/master/Screenshots/screenshot-2.jpg</image>
+    </screenshot>
+  </screenshots>
+  <keywords>
+    <keyword>pinball</keyword>
+    <keyword>space</keyword>
+    <keyword>cadet</keyword>
+  </keywords>
+  <releases>
+    <release type="stable" version="2.1.0" timestamp="1697414400">
+      <description>
+        <p>Feature release focusing on FT compatibility.</p>
+        <p>Main highlights:</p>
+        <ul>
+          <li>FT: collision system changes, table control changes, multiball, three MIDI tracks.</li>
+          <li>Work in progress: localization support. Depends on external font selection for most languages.</li>
+          <li>HW accelerated ImGui renderer.</li>
+          <li>Experimental stereo sound support.</li>
+          <li>UX improvements.</li>
+          <li>Bug fixes.</li>
+        </ul>
+      </description>
+    </release>
+    <release type="stable" version="2.0.1" timestamp="1640736000">
+      <description>
+        <p>First bug fix release of cross-platform port.</p>
+        <p>Main highlights:</p>
+        <ul>
+          <li>Improved Linux support: install target, icons, desktop shortcut, alternative data paths.</li>
+          <li>Improved game controller support.</li>
+          <li>High precision sleep mode for ~0 frame time jitter.</li>
+          <li>Integer image scaling mode.</li>
+          <li>3DPB &lt;-&gt; FT data switch option, for easier data-set changes when both are available.</li>
+          <li>FT demo data support.</li>
+          <li>Bug fixes.</li>
+        </ul>
+      </description>
+    </release>
+    <release type="stable" version="2.0.0" timestamp="1635552000">
+      <description>
+        <p>First release of cross-platform port.</p>
+        <p>Main highlights:</p>
+        <ul>
+          <li>Windows dependencies removed.</li>
+          <li>Graphics and sounds rendered with SDL.</li>
+          <li>Dear ImGui GUI.</li>
+          <li>CMake build script, compiles on a lot of platforms.</li>
+          <li>A number of 3rd party source ports.</li>
+        </ul>
+        <p>All features of v1.x are present, except for text translations.</p>
+        <p>
+                    Development and releases of v1.x will continue, don’t confuse the two.
+                    All source ports are technically v2.0RC, not v1.x.
+                </p>
+        <p>There are no Linux or macOS binaries attached, compile them yourself.</p>
+        <p>
+                    This release was made better with the help of contributors.
+                    I thank them for their interest in the project.
+                </p>
+      </description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1"/>
+</component>
+<component type="desktop-application">
+  <id>android-studio-for-platform.desktop</id>
+  <name>Android Studio for Platform (stable channel)</name>
+  <summary>The official Android IDE for Android platform development</summary>
+  <description>
+    <p>Android Studio for Platform (ASfP) is the version of the Android Studio IDE
+for Android Open Source Project (AOSP) platform developers who build with the Soong build system.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>Android Studio for Platform (ASfP) is the version of the Android Studio IDE
+for Android Open Source Project (AOSP) platform developers who build with the Soong build system.
+</p>
+  </description>
+  <pkgname>android-studio-for-platform</pkgname>
+  <launchable type="desktop-id">android-studio-for-platform.desktop</launchable>
+  <icon type="cached" width="64" height="64">android-studio-for-platform_android-studio-for-platform.png</icon>
+  <icon type="stock">android-studio-for-platform</icon>
+  <categories>
+    <category>Development</category>
+    <category>IDE</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>ruby-mine.desktop</id>
+  <name>RubyMine</name>
+  <summary>Ruby IDE from JetBrains</summary>
+  <description>
+    <p>Ruby IDE from JetBrains</p>
+  </description>
+  <description xml:lang="en">
+    <p>Ruby IDE from JetBrains</p>
+  </description>
+  <pkgname>jetbrains.ruby-mine</pkgname>
+  <launchable type="desktop-id">ruby-mine.desktop</launchable>
+  <icon type="cached" width="48" height="48">jetbrains.ruby-mine_ruby-mine.png</icon>
+  <icon type="cached" width="64" height="64">jetbrains.ruby-mine_ruby-mine.png</icon>
+  <icon type="cached" width="128" height="128">jetbrains.ruby-mine_ruby-mine.png</icon>
+  <icon type="stock">ruby-mine</icon>
+  <categories>
+    <category>Development</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>dataspell.desktop</id>
+  <name>DataSpell</name>
+  <summary>DataSpell is an IDE from JetBrains built for Data Scientists. Mainly it integrates Jupyter notebooks in the IntelliJ platform.</summary>
+  <description>
+    <p>DataSpell is an IDE from JetBrains built for Data Scientists.
+Mainly it integrates Jupyter notebooks in the IntelliJ platform.
+</p>
+  </description>
+  <description xml:lang="en">
+    <p>DataSpell is an IDE from JetBrains built for Data Scientists.
+Mainly it integrates Jupyter notebooks in the IntelliJ platform.
+</p>
+  </description>
+  <pkgname>jetbrains.dataspell</pkgname>
+  <launchable type="desktop-id">dataspell.desktop</launchable>
+  <icon type="cached" width="48" height="48">jetbrains.dataspell_dataspell.png</icon>
+  <icon type="cached" width="64" height="64">jetbrains.dataspell_dataspell.png</icon>
+  <icon type="cached" width="128" height="128">jetbrains.dataspell_dataspell.png</icon>
+  <icon type="stock">dataspell</icon>
+  <categories>
+    <category>Development</category>
+  </categories>
+</component>
+<component type="desktop-application">
+  <id>rust-rover.desktop</id>
+  <name>RustRover</name>
+  <summary>Rust IDE from JetBrains</summary>
+  <description>
+    <p>Rust IDE from JetBrains</p>
+  </description>
+  <description xml:lang="en">
+    <p>Rust IDE from JetBrains</p>
+  </description>
+  <pkgname>jetbrains.rust-rover</pkgname>
+  <launchable type="desktop-id">rust-rover.desktop</launchable>
+  <icon type="cached" width="48" height="48">jetbrains.rust-rover_rust-rover.png</icon>
+  <icon type="cached" width="64" height="64">jetbrains.rust-rover_rust-rover.png</icon>
+  <icon type="cached" width="128" height="128">jetbrains.rust-rover_rust-rover.png</icon>
+  <icon type="stock">rust-rover</icon>
+  <categories>
+    <category>Development</category>
+  </categories>
+</component>
+</components>

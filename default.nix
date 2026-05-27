@@ -16,7 +16,7 @@ stdenv.mkDerivation rec {
 
   installPhase = ''
     runHook preInstall
-    ./build.sh ${set}
+    ./updated_build.sh ${set}
     mkdir -p $out/share/app-info/{icons/nixos,xmls}
     cp dest/*.gz $out/share/app-info/xmls/
     cp -r dest/icons/64x64 $out/share/app-info/icons/nixos/
